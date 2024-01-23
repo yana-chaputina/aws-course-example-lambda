@@ -1,0 +1,4 @@
+rootProject.name = 'aws-course-example-lambda'
+include 'lambda'
+include 'lambda-s3'
+
